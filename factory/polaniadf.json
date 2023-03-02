@@ -1,0 +1,9 @@
+{
+	"name": "polaniadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "25e37d88-a955-4035-9a4d-d02add500337",
+		"tenantId": "78f67dd2-4ef6-45d6-81dc-a9b7894f394f"
+	}
+}
